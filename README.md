@@ -74,7 +74,7 @@ To run this project locally, follow these simple steps:
 ## 📸 Screenshots
 
 <!-- _Add screenshots here (optional)_ -->
-![alt text](image.png)
+![alt text]([image.png](https://github.com/arsalanans47/iTask/blob/44a689c80677f834e086385b679a4c08e1c24ee5/screenshot.png))
 
 ---
 
